@@ -16,7 +16,7 @@ const Content = () => {
                     your body's strength and the simple pleasure of being alive and in motion.</p>
                 </div>
             </div>
-            
+            <div className='divider divider-horizontal'></div>
             <div className='w-full md:w-1/3 gap-5 flex flex-col h-min-screen flex-1'>
             <div className='w-full h-full min-h-[200px] md:min-h-[300px] rounded-2xl hidden md:block p-5 '>
                 <p></p>
